@@ -12,17 +12,17 @@ Here's a quick look at the application in action:
 Login Screen
 This is the first screen you'll see, where you enter your master password or set it up for the first time.
 
-assets/login_screen.png
+![](assets/login_screen.png)
 
 Main Application - Generate and Save
 After logging in, you can generate new passwords and save them.
 
-assets/main_app_generate.png
+![](assets/main_app_generate.png)
 
 Main Application - View Saved Passwords
 See all your securely stored credentials.
 
-assets/main_app_view.png
+![](assets/main_app_view.png)
 
 Getting Started
 Follow these instructions to get a copy of the project up and running on your local machine.
